@@ -14,6 +14,22 @@ const routes = [
     label: 'Home',
   },
   {
+    href: '/stocks',
+    label: 'Stocks',
+  },
+  {
+    href: '/income-statements',
+    label: 'Income Statements',
+  },
+  {
+    href: '/balance-sheets',
+    label: 'Balance Sheets',
+  },
+  {
+    href: '/cash-flows',
+    label: 'Cash Flows',
+  },
+  {
     href: '/settings',
     label: 'Settings',
   },

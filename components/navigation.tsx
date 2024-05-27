@@ -18,6 +18,10 @@ const routes = [
     label: 'Industries',
   },
   {
+    href: '/sectors',
+    label: 'Sectors',
+  },
+  {
     href: '/settings',
     label: 'Settings',
   },
